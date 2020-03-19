@@ -1,0 +1,5 @@
+*.cxx eol=lf
+*.hxx eol=lf
+*.ixx eol=lf
+*.cmake eol=lf
+*.md eol=lf
